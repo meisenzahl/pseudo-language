@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"><center>Pseudo Language</center></h1>
-  <h3 align="center"><center>Create pseudo translations for you applications</center></h3>
+  <h3 align="center"><center>Create pseudo translations for your applications</center></h3>
   <br>
   <br>
 </div>
